@@ -1,0 +1,164 @@
+Teoria Unificada SQE (Secuencia de Coherencia Emergente)
+
+* [Fundamentos del pensamiento moderno](https://www.reddit.com/r/QueeslaVida/comments/1k6bffu/fundamentos_del_pensamiento_moderno_sobre_la_vida/?rdt=49394)
+* Introduccion ― \[[📜 Técnico](https://www.reddit.com/r/QueeslaVida/comments/1k6sd7j/sincron%C3%ADa_cu%C3%A1ntica_y_coherencia_relacional_hacia/)\] ― \[[🤡 Satira](https://www.reddit.com/r/QueeslaVida/comments/1kbc7ge/introduccion_sqe_s%C3%A1tira/)\]
+* Concepto
+   * 1 Secuencia de Coherencia Emergente ― **\[**[📜 Técnico](https://www.reddit.com/r/QueeslaVida/comments/1kc523b/1_secuencia_de_coherencia_emergente/?rdt=54106)**\]** ― **\[**[🤡 Satira](https://www.reddit.com/r/QueeslaVida/comments/1kckx7m/1_secuencia_de_coherencia_emergente_satira/)**\]**
+   * 2 Propuesta Inicial ― \[[📜 Técnico](https://www.reddit.com/r/QueeslaVida/comments/1kcx8pz/2_propuesta_inicial/)\] ― \[[🤡 Satira](https://www.reddit.com/r/QueeslaVida/comments/1kdd62d/2_propuesta_inicial_satira/)\]
+   * 3 Comparativa entre el modelo de sincronía cuántica emergente (SQE), y las principales teorías unificadoras o marcos cosmológicos actuales. ― \[[📜 Técnico](https://www.reddit.com/r/QueeslaVida/comments/1kdpgrs/3_comparativa_entre_el_modelo_de_sincron%C3%ADa/)\] ― \[[🤡 Satira](https://www.reddit.com/r/QueeslaVida/comments/1kdz1rg/3_comparativa_entre_el_modelo_de_sincron%C3%ADa/)\]
+   * 4 Encajando SQE con Teoría de Cuerdas, Gravedad Cuántica de Bucles, Gravedad Emergente y Biología Cuántica ― \[[📜 Técnico](https://www.reddit.com/r/QueeslaVida/comments/1kecwp8/4_encajando_sqe_con_teor%C3%ADa_de_cuerdas_gravedad/)\] ― \[[🤡 Satira](https://www.reddit.com/r/QueeslaVida/comments/1keq3ot/4_encajando_sqe_con_teor%C3%ADa_de_cuerdas_gravedad/)\]
+   * 5 Discrepancias en SQE ― \[[📜 Técnico](https://www.reddit.com/r/QueeslaVida/comments/1kf4j55/5_discrepancias_en_sqe/)\] ― \[[🤡 Satira](https://www.reddit.com/r/QueeslaVida/s/1SfnsLFjrf)\]
+   * 6 Fundamentalismo fisico vs emergentismo relacional ― \[[📜 Técnico](https://www.reddit.com/r/QueeslaVida/s/X1ebMW6K3E)\] ― \[[🤡 Satira](https://www.reddit.com/r/QueeslaVida/s/aAdbP0NWWK)\]
+* Estructura
+   * 7 Secuencia de Coherencia Emergente ― \[[📜 Técnico](https://www.reddit.com/r/QueeslaVida/s/dS9ocFmCZY)\] ― \[[🤡 Satira](https://www.reddit.com/r/QueeslaVida/s/B7fuHLLq8H)\]
+   * 8 Pasos en la secuencializacion del modelo SQE ― \[[📜 Técnico](https://www.reddit.com/r/QueeslaVida/s/FnGPKvxWnD)\] ― \[[🤡 Satira](https://www.reddit.com/r/QueeslaVida/s/1GwbDfZD5O)\]
+   * 9 ¿Qué valores de referencia hay que asumir para obtener los valores exactos de las constantes físicas CODATA? ― \[[📜 Técnico](https://www.reddit.com/r/QueeslaVida/s/bYAHRa4CR0)\] ― \[[🤡 Satira](https://www.reddit.com/r/QueeslaVida/s/iiKVOqBOPY)\]
+   * 10 ¿Qué se puede derivar con los valores fijados? ― \[[📜 Técnico](https://www.reddit.com/r/QueeslaVida/s/DU4wUB9Ppb)\] ― \[[🤡 Satira](https://www.reddit.com/r/QueeslaVida/s/3stpjHs3n6)\]
+* Roadmap
+   * 11. Puntos fuertes y Desafios ― \[[📜 Técnico](https://www.reddit.com/r/QueeslaVida/comments/1kju36a/11_puntos_fuertes_y_desafios/)\] ― \[[🤡 Satira](https://www.reddit.com/r/QueeslaVida/comments/1klur36/11_puntos_fuertes_y_desafios_satira/)\]
+   * 12. Plan de Verificación Experimental de SQE ― \[[📜 Técnico](https://www.reddit.com/r/QueeslaVida/comments/1kklbsd/12_plan_de_verificaci%C3%B3n_experimental_de_sqe/)\] ― \[[🤡 Satira](https://www.reddit.com/r/QueeslaVida/comments/1kluxwe/12_plan_de_verificaci%C3%B3n_experimental_de_sqe_satira/)\]
+   * 13. ﾸﾏ Timeline de Verificación SQE (2030–2040) ― \[[📜 Técnico](https://www.reddit.com/r/QueeslaVida/comments/1kleo3d/13_%EF%BE%B8%EF%BE%8F_timeline_de_verificaci%C3%B3n_sqe_20302040/)\] ― \[[🤡 Satira](https://www.reddit.com/r/QueeslaVida/comments/1klv7e3/13_%EF%BE%B8%EF%BE%8F_timeline_de_verificaci%C3%B3n_sqe_20302040_satira/)\]
+
+\-------------------------------------------------------------------------------------------------------------
+
+* Resumen Universo desde cero:
+   * 14. ✦ Capítulo: Emergencia del Universo Visible — De la Red Cuántica al Fondo de Microondas ― \[[📜 Técnico](https://www.reddit.com/r/QueeslaVida/comments/1km7zy0/14_cap%C3%ADtulo_emergencia_del_universo_visible_de_la/)\] ― \[[🤡 Satira](https://www.reddit.com/r/QueeslaVida/s/s1hczdB9XT)\]
+   * 15. ✦ Capítulo: Emergencia de la Materia y Expansión del Universo ― \[[📜 Técnico](https://www.reddit.com/r/QueeslaVida/s/qzdGpbQvdJ)\] ― \[[🤡 Satira](https://www.reddit.com/r/QueeslaVida/s/TitxwSG8AX)\]
+   * 16. ✦ Capítulo: Autoorganización cuántica — De átomos a estructuras vivas ― \[[📜 Técnico](https://www.reddit.com/r/QueeslaVida/s/PzQnVDIKP1)\] ― \[[🤡 Satira](https://www.reddit.com/r/QueeslaVida/s/B6G4pvjGdK)\]
+   * 17. ✦ Capítulo: Conciencia cuántica — La fase que se mira a sí misma ― \[[📜 Técnico](https://www.reddit.com/r/QueeslaVida/s/kVW53w3aom)\] ― \[[🤡 Satira](https://www.reddit.com/r/QueeslaVida/comments/1koz4y9/17_cap%C3%ADtulo_conciencia_cu%C3%A1ntica_la_fase_que_se/)\]
+   * 18. ✦ Capítulo Final: Todo lo real es relación — Síntesis del modelo SQE ― \[[📜 Técnico](https://www.reddit.com/r/QueeslaVida/comments/1kpd3c6/18_cap%C3%ADtulo_final_todo_lo_real_es_relaci%C3%B3n/)\] ― \[[🤡 Satira](https://www.reddit.com/r/QueeslaVida/s/5MsRhneYDX)\]
+* Fases, capas de coherencia, correcciones retroactivas de las 24 CODATAS fundamentales
+   * Las 7 Fases Universales  ― \[[📜 Técnico](https://www.reddit.com/r/QueeslaVida/s/MUjmu1Nt9Z)\]
+   * Tabla 24 CODATA Fundamentales ― \[[📜 Técnico](https://www.reddit.com/r/QueeslaVida/s/84yqKW2MKz)\]
+* Formulaciones matematicas:
+   * 24 constantes del codata del modelo SQE en orden emergente ―  [Metodología](https://www.reddit.com/r/QueeslaVida/s/FbKlXZGFMh)
+      * [Constante 1: Velocidad de la luz en el vacío — c = 299,792,458 m/s](https://www.reddit.com/r/QueeslaVida/s/JjUzpR0WPP)
+      * [Constante 2: Constante de Planck — h ≈ 6.626 × 10⁻³⁴ J·s](https://www.reddit.com/r/QueeslaVida/comments/1ks4k66/constante_2_constante_de_planck_h_6626_10%C2%B3%E2%81%B4_js/)
+      * [Constante 3: Constante de Planck reducida — ℏ ≈ 1.055 × 10⁻³⁴ J·s](https://www.reddit.com/r/QueeslaVida/comments/1ksjje4/constante_3_constante_de_planck_reducida_%E2%84%8F_1055/)
+      * [Constante 4: Masa del electrón — mₑ](https://www.reddit.com/r/QueeslaVida/s/yXJUwwAFb6)
+      * [Constante 5: Masa del protón — mₚ](https://www.reddit.com/r/QueeslaVida/s/NoGIFPyKih)
+      * [Constante 6: Carga elemental — e](https://www.reddit.com/r/QueeslaVida/comments/1ktq7jv/constante_6_carga_elemental_e/)
+      * [Constante 7: Carga del electrón — qₑ](https://www.reddit.com/r/QueeslaVida/comments/1ku4ndj/constante_7_carga_del_electr%C3%B3n_q%E2%82%91/)
+      * [Constante 8: Masa del neutrino — mν ≈ 0](https://www.reddit.com/r/QueeslaVida/comments/1kuhs8v/constante_8_masa_del_neutrino_m%CE%BD_0/)
+      * [Constante 9: Número de Avogadro — Nₐ](https://www.reddit.com/r/QueeslaVida/comments/1kuvjtd/constante_9_n%C3%BAmero_de_avogadro_n%E2%82%90/)
+      * [Constante 10: Permisividad del vacío — ε₀](https://www.reddit.com/r/QueeslaVida/comments/1kv8uc5/constante_10_permisividad_del_vac%C3%ADo_%CE%B5%E2%82%80/)
+      * [Constante 11: Constante de Coulomb — kₑ](https://www.reddit.com/r/QueeslaVida/comments/1kvn3su/constante_11_constante_de_coulomb_k%E2%82%91/)
+      * [Constante 12: Permeabilidad del vacío — μ₀](https://www.reddit.com/r/QueeslaVida/comments/1kw11xk/constante_12_permeabilidad_del_vac%C3%ADo_%CE%BC%E2%82%80/)
+      * [Constante 13: Constante gravitacional — G](https://www.reddit.com/r/QueeslaVida/comments/1kwfyun/constante_13_constante_gravitacional_g/)
+      * [Constante 14: Constante de gas ideal — R](https://www.reddit.com/r/QueeslaVida/comments/1kwu4yp/constante_14_constante_de_gas_ideal_r/)
+      * [Constante 15: Constante de Stefan-Boltzmann — σ](https://www.reddit.com/r/QueeslaVida/comments/1kx9pil/constante_15_constante_de_stefanboltzmann_%CF%83/)
+      * [Constante 16: Capacidad calorífica molar del agua — Cp](https://www.reddit.com/r/QueeslaVida/comments/1kxnwpr/constante_16_cp_del_agua/)
+      * [Constante 17: Entalpía de formación del agua — ΔHₒ](https://www.reddit.com/r/QueeslaVida/comments/1ky3d4k/constante_17_entalp%C3%ADa_de_formaci%C3%B3n_del_agua_%CE%B4h%E2%82%92/)
+      * [Constante 18: Masa atómica unificada — u](https://www.reddit.com/r/QueeslaVida/comments/1kyhkkw/constante_18_masa_at%C3%B3mica_unificada_u/)
+      * [Constante 19: Longitud de Bohr — a₀](https://www.reddit.com/r/QueeslaVida/comments/1kywva3/constante_19_longitud_de_bohr_a%E2%82%80/)
+      * [Constante 20: Tiempo de vida del electrón — τₑ](https://www.reddit.com/r/QueeslaVida/comments/1kzb032/constante_20_tiempo_de_vida_del_electr%C3%B3n_%CF%84%E2%82%91/)
+      * [Constante 21: Longitud de onda de transición del hidrógeno — λ](https://www.reddit.com/r/QueeslaVida/comments/1kzq0em/constante_21_longitud_de_onda_de_transici%C3%B3n_del/)
+      * [Constante 22: Constante de Faraday — F](https://www.reddit.com/r/QueeslaVida/comments/1l03dym/constante_22_constante_de_faraday_f/)
+      * [Constante 23: Eficiencia de celdas solares — η](https://www.reddit.com/r/QueeslaVida/comments/1l0ht5v/constante_23_eficiencia_de_celdas_solares_%CE%B7/)
+      * [Constante 24: Radiación de cuerpo negro — Iₓ](https://www.reddit.com/r/QueeslaVida/comments/1l0vfyy/constante_24_radiaci%C3%B3n_de_cuerpo_negro_i%E2%82%93/)
+      * [Resumen Final de las 7 fases y 24 CODATAS fundamentales --Primera parte--](https://www.reddit.com/r/QueeslaVida/comments/1l1ajfw/resumen_final_de_las_7_fases_y_24_codatas/)
+      * [Resumen Final de las 7 fases y 24 CODATAS fundamentales --Segunda parte--](https://www.reddit.com/r/QueeslaVida/comments/1l1oy3o/resumen_final_de_las_7_fases_y_24_codatas/)
+   * 284 restantes constantes emergen de las 24 anteriores
+* [NucleoSintesis en una red de informacion como SQE](https://www.reddit.com/r/QueeslaVida/comments/1l24gjd/nucleosintesis_en_una_red_de_informacion_como_sqe/)
+   * Nucleosíntesis primordial (H, He, Li) ― \[[📜 Concepto](https://www.reddit.com/r/QueeslaVida/comments/1l24gjh/nucleos%C3%ADntesis_primordial_h_he_li/)\] ― \[[📜 Técnico](https://www.reddit.com/r/QueeslaVida/comments/1l2itpf/expansi%C3%B3n_t%C3%A9cnica_nucleos%C3%ADntesis_primordial_h_he/)\] 
+   * Fusión estelar (Be a Ca) ― \[[📜 Concepto](https://www.reddit.com/r/QueeslaVida/comments/1l2y4bg/fusi%C3%B3n_estelar_be_a_ca/)\] ― \[[📜 Técnico](https://www.reddit.com/r/QueeslaVida/comments/1l3cfhy/expansi%C3%B3n_t%C3%A9cnica_fusi%C3%B3n_estelar_be_a_ca/)\] 
+   * Supernovas y procesos secundarios (Sc a Zn) ― \[[📜 Concepto](https://www.reddit.com/r/QueeslaVida/comments/1l3rstv/supernovas_y_procesos_secundarios_sc_a_zn/)\] ― \[[📜 Técnico](https://www.reddit.com/r/QueeslaVida/comments/1l46097/expansi%C3%B3n_t%C3%A9cnica_supernovas_y_procesos/)\] 
+   * r-process / s-process (Ga a Bi) ― \[[📜 Concepto](https://www.reddit.com/r/QueeslaVida/comments/1l4l692/rprocess_sprocess_ga_a_bi/)\] ― \[[📜 Técnico](https://www.reddit.com/r/QueeslaVida/comments/1l4z2wq/expansi%C3%B3n_t%C3%A9cnica_rprocess_sprocess_ga_a_bi/)\] 
+   * Elementos sintéticos (Po a Og) ― \[[📜 Concepto](https://www.reddit.com/r/QueeslaVida/comments/1l5dsuw/elementos_sint%C3%A9ticos_po_a_og/)\] ― \[[📜 Técnico](https://www.reddit.com/r/QueeslaVida/comments/1l5r1xm/expansi%C3%B3n_t%C3%A9cnica_elementos_sint%C3%A9ticos_po_a_og/)\] 
+* Nucleosíntesis vs. Biosíntesis
+   * [Hipótesis inicial](https://www.reddit.com/r/QueeslaVida/comments/1l6543l/hip%C3%B3tesis_inicial/)
+   * [Analogías entre fusión estelar y diferenciación celular](https://www.reddit.com/r/QueeslaVida/comments/1l6iiu0/analog%C3%ADas_entre_fusi%C3%B3n_estelar_y_diferenciaci%C3%B3n/)
+   * [Incubación: calor como energía para el pasaje de fase vital](https://www.reddit.com/r/QueeslaVida/comments/1l6xb1s/incubaci%C3%B3n_calor_como_energ%C3%ADa_para_el_pasaje_de/)
+   * [Estudios que exploran analogías entre procesos técnicos y biológicos](https://www.reddit.com/r/QueeslaVida/comments/1l7bqrl/estudios_que_exploran_analog%C3%ADas_entre_procesos/)
+   * [Números Cuánticos](https://www.reddit.com/r/QueeslaVida/comments/1lfwk7i/n%C3%BAmeros_cu%C3%A1nticos/)
+   * [Numeros cuanticos y Relación con la nucleosíntesis](https://www.reddit.com/r/QueeslaVida/comments/1lganrx/numeros_cuanticos_y_relaci%C3%B3n_con_la_nucleos%C3%ADntesis/)
+   * [Entrelazamiento por pares (ER=EPR -> Llevando el modelo a la fractalidad)](https://www.reddit.com/r/QueeslaVida/comments/1lgphdk/entrelazamiento_por_pares_erepr_llevando_el/)
+      * [Modelo jerárquico de entrelazamiento por pares (versión inicial)](https://www.reddit.com/r/QueeslaVida/comments/1lh2pql/modelo_jer%C3%A1rquico_de_entrelazamiento_por_pares/)
+      * [Formulación matemática simbólica del modelo del entrelazamiento por pares](https://www.reddit.com/r/QueeslaVida/comments/1lhgtf8/formulaci%C3%B3n_matem%C3%A1tica_simb%C3%B3lica_del_modelo_del/)
+      * [Niveles de entrelazamiento y patron atomico](https://www.reddit.com/r/QueeslaVida/comments/1lhu9sk/niveles_de_entrelazamiento_y_patron_atomico/)
+      * [Números mágicos vs. potencias de 2](https://www.reddit.com/r/QueeslaVida/comments/1li92bu/n%C3%BAmeros_m%C3%A1gicos_vs_potencias_de_2/)
+      * [Formalización matemática del modelo jerárquico](https://www.reddit.com/r/QueeslaVida/comments/1linnrs/formalizaci%C3%B3n_matem%C3%A1tica_del_modelo_jer%C3%A1rquico/)
+      * [Red cuántica parcial](https://www.reddit.com/r/QueeslaVida/comments/1lj3g0a/red_cu%C3%A1ntica_parcial/)
+      * [Números Mágicos](https://www.reddit.com/r/QueeslaVida/comments/1lji72e/n%C3%BAmeros_m%C3%A1gicos/)
+      * [Los orbitales electrónicos, los números mágicos nucleares, y la idea de entrelazamiento parcial, modular y jerárquico.](https://www.reddit.com/r/QueeslaVida/comments/1ljxq41/los_orbitales_electr%C3%B3nicos_los_n%C3%BAmeros_m%C3%A1gicos/)
+      * [Numeros magicos de la fuerza nuclear Fuerte](https://www.reddit.com/r/QueeslaVida/comments/1lkcsr1/numeros_magicos_de_la_fuerza_nuclear_fuerte/)
+      * [El papel de la fuerza nuclear debil](https://www.reddit.com/r/QueeslaVida/comments/1lksjwl/el_papel_de_la_fuerza_nuclear_debil/)
+      * [PRIMERA PARTE: Aplicación del modelo especulativo a ejemplos concretos con fuerza débil](https://www.reddit.com/r/QueeslaVida/comments/1ll717c/primera_parte_aplicaci%C3%B3n_del_modelo_especulativo/)
+      * [SEGUNDA PARTE: Modelo matemático conjunto (fuerza fuerte + débil)](https://www.reddit.com/r/QueeslaVida/comments/1llmdf6/segunda_parte_modelo_matem%C3%A1tico_conjunto_fuerza/)
+      * [Numeros magicos de la fuerza electromagnetica](https://www.reddit.com/r/QueeslaVida/comments/1lm0n20/numeros_magicos_de_la_fuerza_electromagnetica/)
+      * [Modelo simbólico completo de estabilidad nuclear S(Z, N)](https://www.reddit.com/r/QueeslaVida/comments/1lmfkxv/modelo_simb%C3%B3lico_completo_de_estabilidad_nuclear/)
+      * [Refinamiento: Efecto de la fuerza nuclear débil](https://www.reddit.com/r/QueeslaVida/comments/1lmt676/refinamiento_efecto_de_la_fuerza_nuclear_d%C3%A9bil/)
+      * [Resumen del entrelazamiento por pares en nucleosintesis](https://www.reddit.com/r/QueeslaVida/comments/1ln770f/resumen_del_entrelazamiento_por_pares_en/)
+      * [Entrelazamiento por pares fase química](https://www.reddit.com/r/QueeslaVida/comments/1lnl5cq/entrelazamiento_por_pares_fase_qu%C3%ADmica/)
+      * [Extensión refinada del modelo al nivel químico](https://www.reddit.com/r/QueeslaVida/comments/1lnzeu9/extensi%C3%B3n_refinada_del_modelo_al_nivel_qu%C3%ADmico/)
+      * [Modelo molecular como sistema de coherencia por red de entrelazamientos](https://www.reddit.com/r/QueeslaVida/comments/1loejxd/modelo_molecular_como_sistema_de_coherencia_por/)
+      * [Modelo de Entrelazamiento Químico](https://www.reddit.com/r/QueeslaVida/comments/1lotp29/modelo_de_entrelazamiento_qu%C3%ADmico/)
+   * Relatividad Temporal = Funcion de onda
+      * [El acto de observar, funcion de onda como diferencia temporal y relatividad](https://www.reddit.com/r/QueeslaVida/comments/1lp8otg/el_acto_de_observar_funcion_de_onda_como/)
+      * [Reencuadre en el marco de la teoría SQE y formalización matemática](https://www.reddit.com/r/QueeslaVida/comments/1lpnsxu/reencuadre_en_el_marco_de_la_teor%C3%ADa_sqe_y/)
+      * [1 Refinar la ecuación de sincronía y Comparación con la decoherencia estándar](https://www.reddit.com/r/QueeslaVida/comments/1lq2rdy/1_refinar_la_ecuaci%C3%B3n_de_sincron%C3%ADa_y_comparaci%C3%B3n/)
+      * [2 Modelo computable simple](https://www.reddit.com/r/QueeslaVida/comments/1lqi3yr/2_modelo_computable_simple_para_simular_la/)
+      * [3 Aplicación a un experimento tipo doble rendija](https://www.reddit.com/r/QueeslaVida/comments/1lqwcx1/3_aplicaci%C3%B3n_a_un_experimento_tipo_doble_rendija/)
+      * [4 Revisión conceptual del papel del tiempo en la mecánica cuántica](https://www.reddit.com/r/QueeslaVida/comments/1lrbd13/4_revisi%C3%B3n_conceptual_del_papel_del_tiempo_en_la/)
+      * [Lo que vemos es lo que podemos sincronizar](https://www.reddit.com/r/QueeslaVida/comments/1lrp7p0/lo_que_vemos_es_lo_que_podemos_sincronizar/)
+      * [Corrimiento al rojo y la relatividad temporal SQE](https://www.reddit.com/r/QueeslaVida/comments/1ls2x24/corrimiento_al_rojo_y_la_relatividad_temporal_sqe/)
+      * [Integración en la teoría SQE: Sincronización temporal como colapso / coherencia / observación](https://www.reddit.com/r/QueeslaVida/comments/1lsfz0n/integraci%C3%B3n_en_la_teor%C3%ADa_sqe_sincronizaci%C3%B3n/)
+   * Frecuencia Biologica y metricas para su busqueda en el universo
+      * [Frecuencia de elementos en el universo, su papel clave en la vida biológica y su origen nucleosintético](https://www.reddit.com/r/QueeslaVida/comments/1lsu3ay/frecuencia_de_elementos_en_el_universo_su_papel/)
+      * [Combinando dos esquemas diferentes pero complementarios](https://www.reddit.com/r/QueeslaVida/comments/1lt7nj7/combinando_dos_esquemas_diferentes_pero/)
+      * [La escasez de los elementos esenciales para la vida en el universo](https://www.reddit.com/r/QueeslaVida/comments/1ltmj4p/la_escasez_de_los_elementos_esenciales_para_la/)
+      * [Predecir lugares del universos mas propensos para el surgimiento de la vida biologica](https://www.reddit.com/r/QueeslaVida/comments/1lu18r7/predecir_lugares_del_universos_mas_propensos_para/)
+      * [Prototipo de “métrica de coherencia estructural SQE”](https://www.reddit.com/r/QueeslaVida/comments/1luh30q/prototipo_de_m%C3%A9trica_de_coherencia_estructural_sqe/)
+      * [Una sinfonía cósmica](https://www.reddit.com/r/QueeslaVida/comments/1luvl6f/una_sinfon%C3%ADa_c%C3%B3smica/)
+      * [Paso 1: formalizar una métrica matemática concreta](https://www.reddit.com/r/QueeslaVida/comments/1lvb9tg/paso_1_formalizar_una_m%C3%A9trica_matem%C3%A1tica_concreta/)
+      * [Paso 2: Aplicar el modelo Ψ\_bio(R) a estructuras reales simuladas, usando como referencia regiones de una galaxia espiral como la Vía Láctea.](https://www.reddit.com/r/QueeslaVida/comments/1lvpnqo/paso_2_aplicar_el_modelo_%CF%88_bior_a_estructuras/)
+      * [Paso 3, con la función compuesta Ψ\_bio(Rᵢ)](https://www.reddit.com/r/QueeslaVida/comments/1lw596f/paso_3_con_la_funci%C3%B3n_compuesta_%CF%88_bior%E1%B5%A2/)
+      * [Paso 4 — Introducción de condiciones activadoras](https://www.reddit.com/r/QueeslaVida/comments/1lwjk31/paso_4_introducci%C3%B3n_de_condiciones_activadoras/)
+* Empezando la teoria del todo / teoria unificada para biofisica (objetivo de todo este viaje: introducir la biosentesis en una teoria unificada del universo):
+   * [Resumen 43 Fases](https://www.reddit.com/r/QueeslaVida/comments/1l7rbbq/desde_el_universo_primordial_hasta_la_conciencia/)
+   * [Sintesis](https://www.reddit.com/r/QueeslaVida/comments/1l85n0i/s%C3%ADntesis_estructurada_del_lagrangiano_evolutivo/)
+      * [Fases 1-4](https://www.reddit.com/r/QueeslaVida/comments/1l8l62q/fases_14/)
+      * [Fases 5-11](https://www.reddit.com/r/QueeslaVida/comments/1l9enqj/fases_511/)
+      * [Fases 12-15](https://www.reddit.com/r/QueeslaVida/comments/1la8kvr/fases_1215/)
+      * [Fases 16-21](https://www.reddit.com/r/QueeslaVida/comments/1lb1ka4/fases_1621/)
+      * [Fases 22-28](https://www.reddit.com/r/QueeslaVida/comments/1lbt8fy/fases_2228/)
+      * [Fases 29-35](https://www.reddit.com/r/QueeslaVida/comments/1lclcw0/fases_2935/)
+      * [Fases 36-41](https://www.reddit.com/r/QueeslaVida/comments/1ldfmv1/fases_3641/)
+      * [Fases 42-43](https://www.reddit.com/r/QueeslaVida/comments/1lehbeg/fases_4243/)
+   * [Finales del universo: Big Freeze, Big Crunch, Big Bounce, transicion de fase y disolucion cuantica reinterpretados en la teoria SQE como finales en una red de informacion.](https://www.reddit.com/r/QueeslaVida/comments/1l9t9u9/finales_del_universo_big_freeze_big_crunch_big/)
+   * [Universo sin materia negra ni energia oscura en SQE](https://www.reddit.com/r/QueeslaVida/comments/1lbewjy/universo_sin_materia_negra_ni_energia_oscura_en/)
+   * [Métrica de Friedmann-Lemaître-Robertson-Walker (FLRW) en SQE](https://www.reddit.com/r/QueeslaVida/comments/1lc6p4n/m%C3%A9trica_de_friedmannlema%C3%AEtrerobertsonwalker_flrw/)
+   * [FONDO DE MICROONDAS (CMB) en SQE](https://www.reddit.com/r/QueeslaVida/comments/1lczxmg/fondo_de_microondas_cmb_en_sqe/)
+   * Inspiraciones y menciones especulativas que ayudaron al ensayo y teoria SQE:
+      * [Aclaracion de fotones "desacelerados", de donde surgio la idea...](https://www.reddit.com/r/QueeslaVida/comments/1l8zjvp/aclaracion_de_fotones_desacelerados_de_donde/)
+      * [Cancer y tumores los limites de la coherencia que sustentan un ente biologico](https://www.reddit.com/r/QueeslaVida/comments/1lamodq/cancer_y_tumores_los_limites_de_la_coherencia_que/)
+      * [La biofísica de la conciencia de David Bohm y La teoria del ensamblaje de Sara Walker](https://www.reddit.com/r/QueeslaVida/comments/1lenyw9/la_biof%C3%ADsica_de_la_conciencia_de_david_bohm_y_la/)
+      * [La teoria del ensamblaje de Sara Walker](https://www.reddit.com/r/QueeslaVida/comments/1lf3cyv/la_teoria_del_ensamblaje_de_sara_walker/)
+      * [Red de ensamblaje en Walker vs Ritmo compartido en SQE](https://www.reddit.com/r/QueeslaVida/comments/1lfhiyn/red_de_ensamblaje_en_walker_vs_ritmo_compartido/)
+* [SQE filosóficamente bonito pero formulación matemática incompleta](https://www.reddit.com/r/QueeslaVida/comments/1ldu5ky/sqe_filos%C3%B3ficamente_bonito_pero_formulaci%C3%B3n/)
+   * Modelo de evolución del campo φ
+      * Proyección 1D, 2D y esférica
+      * Espectro de potencias tipo Planck
+* [Excel Constantes Necesarias para modelo SQE](https://lefuan.neocities.org/SQE/002%20CODATA)
+
+\-------------------------------------------------------------------------------------------------------------
+
+* [Teoria del Todo](https://es.wikipedia.org/wiki/Teor%C3%ADa_del_todo)
+* [Emergent Gravity and the Dark Universe (2016) Erik Verlinde](https://arxiv.org/abs/1611.02269)
+* [On the Origin of Gravity and the Laws of Newton (2010) Erik Verlinde](https://arxiv.org/abs/1001.0785)
+* [Cool horizons for entangled black holes (2013) Juan Maldacena](https://arxiv.org/abs/1306.0533)
+* [ER=EPR, GHZ, and the Consistency of Quantum Measurements (2014) Juan Maldacena](https://arxiv.org/abs/1412.8483)
+* [Gravedad Unificada de Mikko Partanen y Jukka Tulkki](https://arxiv.org/abs/2310.01460)
+* [Causal Set Theory (Bombelli, Sorkin)](https://en.wikipedia.org/wiki/Causal_sets)
+* [Quantum Graphity (Konopka et al.)](https://es.wikipedia.org/wiki/Graficidad_cu%C3%A1ntica)
+* [Holographic entanglement entropy (Ryu-Takayanagi)](https://arxiv.org/abs/1609.01287)
+* [Loop Quantum Gravity / Spin networks (Rovelli, Smolin)](https://en.wikipedia.org/wiki/Spin_network)
+* [Tensor Network States / MERA (Vidal, Swingle)](https://en.wikipedia.org/wiki/Tensor_network)
+* [Topological order in quantum matter (Wen, Kitaev)](https://en.wikipedia.org/wiki/Topological_order)
+* [Biología cuántica](https://es.wikipedia.org/wiki/Biolog%C3%ADa_cu%C3%A1ntica)
+* [Problema difícil de la consciencia](https://es.wikipedia.org/wiki/Problema_dif%C3%ADcil_de_la_consciencia)
+
+\-------------------------------------------------------------------------------------------------------------  
+[Imagen Secuancializacion de constantes universales](https://lefuan.neocities.org/SQE/Emergencia%20constantes%20SQE.png)
+
+![img](oiaqq5oj1yxe1 "Secuencia emergente de constantes fundamentales")
